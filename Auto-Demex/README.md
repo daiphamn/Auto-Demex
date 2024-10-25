@@ -5,7 +5,7 @@ Automated UI test for **[Demex](dem.exchange)** based on **[Atata Framework](htt
 ### 1. Framework Structure
 
 ```
-Core/
+Auto-Demex/
 |- Configuration/               
 	|- AtataConfiguration.cs		// Contains all of global configurations for SUT(System Under Tests)
 |- Extension/									
